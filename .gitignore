@@ -1,0 +1,6 @@
+*
+!.gitignore
+!*/
+# whitelist of data
+!/*/out/*.gpx
+
