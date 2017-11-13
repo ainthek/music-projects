@@ -5,4 +5,5 @@
 # whitelist of data
 !/*/out/*.gpx
 !/*/out/*.gp
+!/*/out/*.gp5
 
